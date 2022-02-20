@@ -1,5 +1,5 @@
 # Random-Forest
-I have applied random forest algorithm to the Boston dataset to predict **medv**. In other words, **medv is the label**, and the other **13 variables** in the dataset are the attributes.
+I have applied random forest algorithm to the **Boston dataset** to predict **medv**. In other words, **medv is the label**, and the other **13 variables** in the dataset are the attributes.
 
 Then I Split the dataset randomly into **two equal parts**, which will serve as the training set and the test set. 
 
